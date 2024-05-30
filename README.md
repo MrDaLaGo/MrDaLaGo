@@ -10,8 +10,11 @@ Hi! I'm a Computer Engineering student at the University of Salamanca. I'm 20 ye
 ## Technology Stack
 
 ### Backend
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java" />
+  </a>
+</p>
 
 ---
 
