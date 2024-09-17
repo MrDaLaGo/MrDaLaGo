@@ -20,6 +20,8 @@ Hi! I'm a Computer Engineering student at the University of Salamanca. I'm 20 ye
 
 ## Contact
 
-- **Email:** your-email@domain.com
-- **LinkedIn:** [your-profile](https://www.linkedin.com/in/your-profile)
+- **Email:** davidlavgonz@hotmail.com
+- **LinkedIn:** [your-profile](www.linkedin.com/in/david-lavado-83785221a
+
+)
 - **GitHub:** [MrDaLaGo](https://github.com/MrDaLaGo)
