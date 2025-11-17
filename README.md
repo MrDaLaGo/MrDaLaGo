@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hi! I'm a Computer Engineering student at the University of Salamanca. I'm 20 years old and very eager to keep learning and improving my software development skills.
+Hi! I'm a Computer Engineering student at the University of Salamanca. I'm 21 years old and very eager to keep learning and improving my software development skills.
 
 ## Technology Stack
 
