@@ -6,7 +6,9 @@ Final year Computer Engineering student at the University of Salamanca with a st
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MrDaLaGo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=MrDaLaGo.MrDaLaGo)
+
 </p>
 
 ---
@@ -56,12 +58,39 @@ My main interests are **Linux system administration, infrastructure and backend 
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MrDaLaGo&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDaLaGo\&show_icons=true\&theme=tokyonight\&hide_border=true\&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDaLaGo\&layout=compact\&theme=tokyonight\&hide_border=true\&cache_seconds=86400)
+
 </p>
 
+---
+
+## 🧰 Technologies
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDaLaGo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
+
+---
+
+## 📌 Featured Projects
+
+Some of the projects developed during my studies include:
+
+* 🐧 **Linux Administration Scripts** – Bash tools for system automation and monitoring
+* 🌐 **Client-Server Applications** – Networking programs using socket communication
+* 🔐 **Security & Cryptography Projects** – Implementations of encryption and security concepts
+* ⚙️ **Systems Programming** – Low-level programs written in C
 
 ---
 
