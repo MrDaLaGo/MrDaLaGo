@@ -6,7 +6,7 @@ Final year Computer Engineering student at the University of Salamanca with a st
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/david-lavado-gonz%C3%A1lez-83785221a" target="blank">
+<a href="https://linkedin.com/in/david-lavado-gonz%C3%A1lez-83785221a">
 <img src="https://img.shields.io/badge/LinkedIn-David_Lavado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:davidlavgonz@hotmail.com">
@@ -40,7 +40,7 @@ I am particularly interested in **Linux system administration, infrastructure an
 ### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cs,python,java,js,html,css,sql,bash"/>
+<img src="https://skillicons.dev/icons?i=c,cs,python,java,js,html,css,postgres,bash"/>
 </p>
 
 ### Systems & Tools
@@ -69,6 +69,14 @@ I am particularly interested in **Linux system administration, infrastructure an
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDaLaGo&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrDaLaGo&theme=tokyo-night"/>
 </p>
 
 ---
