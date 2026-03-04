@@ -65,33 +65,6 @@ My main interests are **Linux system administration, infrastructure and backend 
 
 ---
 
-## 🧰 Technologies
-
-<p align="center">
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-Some of the projects developed during my studies include:
-
-* 🐧 **Linux Administration Scripts** – Bash tools for system automation and monitoring
-* 🌐 **Client-Server Applications** – Networking programs using socket communication
-* 🔐 **Security & Cryptography Projects** – Implementations of encryption and security concepts
-* ⚙️ **Systems Programming** – Low-level programs written in C
-
----
-
 ## 📫 Contact
 
 <p align="center">
