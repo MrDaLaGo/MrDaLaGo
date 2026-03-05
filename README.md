@@ -73,7 +73,7 @@ My main interests are **Linux system administration, infrastructure and backend 
 <img src="https://img.shields.io/badge/LinkedIn-David_Lavado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:davidlavgonz@hotmail.com">
+<a href="mailto:david.lavadog@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
