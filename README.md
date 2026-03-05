@@ -52,7 +52,7 @@ My main interests are **Linux system administration, infrastructure and backend 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrDaLaGo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrDaLaGo&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 ---
