@@ -52,11 +52,15 @@ My main interests are **Linux system administration, infrastructure and backend 
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrDaLaGo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDaLaGo\&show_icons=true\&theme=tokyonight\&hide_border=true\&cache_seconds=86400)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDaLaGo\&layout=compact\&theme=tokyonight\&hide_border=true\&cache_seconds=86400)
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrDaLaGo/MrDaLaGo/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
